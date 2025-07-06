@@ -65,7 +65,7 @@ To build and simulate this smart irrigation system in Cisco Packet Tracer, you w
 ---
 
 ## 🎥 Demo Video
-Include a short screen recording of your simulation showing the water level dropping below the threshold and sprinklers activating automatically. Upload the video to this repository or link it from an external platform like YouTube.
+Simulation video has been uploaded.
 
 ---
 
