@@ -60,7 +60,7 @@ To build and simulate this smart irrigation system in Cisco Packet Tracer, you w
 ---
 
 ## 📸 Simulated Circuit Screenshot
-![Simulated Circuit](./images/simulated_circuit.png) <!-- Replace path with your uploaded image location -->
+![Simulated Circuit](./ckt-diag.png) <!-- Replace path with your uploaded image location -->
 
 ---
 
